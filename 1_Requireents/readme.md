@@ -1,17 +1,29 @@
+# Requirements
 ## Introduction
-In quiz game, questions are chosen in such a a way that they cover all fields of a typical quiz contest. The user’s general knowledge is tested with quiz questions regarding science, technology, movies, sports, general health, geography and many more.
-
-fun to do
-
-
-pf(i got it);ssss
-# Race results
-
-Here are the results from this week's race:
-
- | Number | Rider        | Time
- | 1      | Bullet Bob   | 56:07
- | 2      | Clumsy Colin | DNF 
- | 3      | Swift Susan  | 55:13
-
-Congratulations to all who took part and I look forward to seeing you all at the next one!
+The Encryption project is implemented in java platform. This application is used for providing security for data by converting normal data in to different format and transfer to end user where decryption algorithm are used to re convert to correct format. Encryption algorithms are used in wireless communication networks, military, mailing, voice data…etc. Now a day’s every application use different encryption methods. Gmail, yahoo mail use different encryption algorithms for providing security or mails.
+## Reasearch:-
+The Main Aim of this project is to develop an application to implement “ENCRYPTION TECHNIQUES”. It is used to encrypt the original message into un understandable format and decrypt’s that un understandable message into original message. It is done by using the JAVA Programming.
+## Features:-
+  * Caesar Cipher
+  * PlayFair Cipher
+  * RainFence Cipher
+  * Encryption
+  * Decryption
+# SWOT Analysis:-
+ SWOT analysis is a vital process that helps a business to evaluate its internal and external environment by identifying strengths, weaknesses, opportunities and threats. SWOT analysis is a fantastic process for testing out your ideas.
+  ### a.Strengths 
+  * The length of the encryption key is related to the security of the encryption algorithm,longer keys provide a larger number of possible combinations used to encrypt text.
+  * Lower Response time
+  * Easy to use
+  
+  ### b.Weakness
+ The encryption key is crucial to the encryption process, it must be protected at all costs. After the key is disclosed, the encrypted data is no longer secure.
+ 
+ ### c.Opportunity
+ * No Vulnerabilities
+ * Source code has unit tests
+ 
+ ### d.Threats
+ * Threats includes Bugs and Errors in the code which affects the code implementation.
+ * The popularity is lower
+ 
