@@ -26,4 +26,28 @@ The Main Aim of this project is to develop an application to implement “ENCRYP
  ### d.Threats
  * Threats includes Bugs and Errors in the code which affects the code implementation.
  * The popularity is lower
- 
+ ## 4W's & H:-
+  ### Who : 
+  Anyone who wants to Encrypt and Decrypt the data can use this project.
+  ### What : 
+  This project is concerned is about Encryption and Decryption of plain text.
+  ### When :
+  When Users want to Encrypt the message for security purposes.
+  ### Why : 
+  This projects helps the users to encrypt and decrypt the message.
+  ### How : 
+  The message can be encrypted and decrypted using Caesar Cipher,PlayFair Cipher,RainFence Cipher.
+   ## Detail Requirements
+  #### High level Requirements
+| ID | Description | 
+| :---:   | :-: | 
+| HLR1 | Requires a message to do the Encryption Or Decryption| 
+| HLR2 | Key | 
+| HLR3 | User shall be able to understand cipher | 
+| HLR4 | Windows,JDK,EclipseJEE,Github   | 
+ #### Low level Requirements   
+  | ID | Description | 
+| :---:   | :-: | 
+| LR1 | User with functionality known | 
+| LR2 | Valid message| 
+  
